@@ -1,10 +1,5 @@
 # yolov10_speed_detector
 
-![yolov10pic](https://github.com/user-attachments/assets/972b05c4-fe1b-44fb-b08d-5fafe1a82763)
-
-
-
-
 https://github.com/user-attachments/assets/35f19c8e-f39d-4651-8921-ee52a279127d
 
 
