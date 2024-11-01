@@ -1,5 +1,8 @@
 # yolov10_speed_detector
 
+![yolov10pic](https://github.com/user-attachments/assets/972b05c4-fe1b-44fb-b08d-5fafe1a82763)
+
+
 ## YOLOv10 Speed Detector
 
 This project uses YOLOv10 for detecting and estimating the speed of objects in a video stream. By tracking object movement across frames, the detector calculates speed in real time, providing insights into object motion for applications such as traffic monitoring or sports analysis.
